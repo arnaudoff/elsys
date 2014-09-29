@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("Hello world.\n");
+	int random = 12;
+	printf("Random integer: %d\n", random);
 	return 0;
 }
