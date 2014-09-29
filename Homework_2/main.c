@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main() {
-	float p = 5.756;
-	double lp = 5.76767676;
+	char god = 'g';
+	char no = 'n';
 
-	printf("p = %.2f\nlp = %.8f\n", p, lp);
+	printf("god: %c\nno: %c\n", god, no);
 	return 0;
 }
