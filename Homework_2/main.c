@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main() {
-	int random = 12;
-	printf("Random integer: %d\n", random);
+	float p = 5.756;
+	double lp = 5.76767676;
+
+	printf("p = %.2f\nlp = %.8f\n", p, lp);
 	return 0;
 }
