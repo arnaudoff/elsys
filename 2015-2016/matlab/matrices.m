@@ -35,3 +35,8 @@ d_det = det(D);
 
 % Inverse
 d_inv = inv(D);
+
+H = [1 2 3 4; 4 5 6 7; 7 8 9 10];
+second_h_col = H(:, 2);
+second_third_h_col = H(:, 2:3);
+second_third_rc = H(2:3, 2:3);

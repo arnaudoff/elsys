@@ -33,3 +33,7 @@ dot_product = dot(v2, v5);
 
 new_vector = [0:5:20];
 s_power = new_vector .^ 2;
+
+v6 = 1:10;
+v7 = 100:-10:50;
+v8 = 0:pi/4:pi;
