@@ -7,3 +7,5 @@ Repository containing school exercises and homework.
 - 2015-2016
     - Object-oriented programming
     - Operating systems
+    - MATLAB
+
